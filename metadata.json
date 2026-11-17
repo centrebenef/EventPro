@@ -1,0 +1,6 @@
+{
+  "name": "EVENT PRO",
+  "description": "Plateforme professionnelle d'organisation et de réservation d'événements à Casablanca, Maroc. Chaque événement mérite d'être exceptionnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
